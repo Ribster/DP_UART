@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5V0 Pin=K2-1
+Removed Pin From Net: NetName=USB_N Pin=K2-2
+Removed Pin From Net: NetName=USB_P Pin=K2-3
+Removed Pin From Net: NetName=GND Pin=K2-5
+Removed Pin From Net: NetName=GND Pin=K2-M1
+Removed Pin From Net: NetName=GND Pin=K2-M2
+Removed Pin From Net: NetName=GND Pin=K2-M3
+Removed Pin From Net: NetName=GND Pin=K2-M4
+Change Component DesignItemId : Designator=K2 Old DesignItemId=Connector_USB_SMD_USB_F_MINI New DesignItemId=Connector_USB_THT_USB-A Male
+Change Component Footprint: Designator=K2 Old Footprint=USB_F_MINI New Footprint=USB-A - MALE
+Change Component Comment : Designator=K2 Old Comment=Connector_USB_SMD_USB_F_MINI New Comment=Connector_USB_THT_USB-A Male
+Added Pin To Net: NetName=GND Pin=K2-0
+Added Pin To Net: NetName=GND Pin=K2-0
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=USB_P Pin=K2-2
+Added Pin To Net: NetName=USB_N Pin=K2-3
+Added Pin To Net: NetName=5V0 Pin=K2-4

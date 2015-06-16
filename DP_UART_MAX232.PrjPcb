@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for DP_UART_MAX232
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -134,7 +134,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for DP_UART_MAX232
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -171,6 +171,11 @@ OutputName6=XSpice Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=WBSENetlistGeneration
+OutputName7=WEBENCH Simulation Engine
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -192,6 +197,11 @@ OutputName3=SIMPLIS
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
+OutputType4=WBSENetlist
+OutputName4=WEBENCH Simulation Engine
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
 
 [OutputGroup3]
 Name=Documentation Outputs
